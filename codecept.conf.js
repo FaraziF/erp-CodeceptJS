@@ -9,7 +9,7 @@ exports.config = {
   output: './output',
   helpers: {
     WebDriver: {
-      url: 'http://localhost',
+      url: 'https://erp.ajaira.website/',
       browser: 'chrome',
       // windowSize: '1200x1280',
       timeouts: {
